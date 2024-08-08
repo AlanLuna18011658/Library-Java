@@ -25,3 +25,6 @@ replay_pid*
 
 # database
 *.txt
+
+# macOS
+.DS_Store
