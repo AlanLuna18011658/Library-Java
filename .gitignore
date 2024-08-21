@@ -27,4 +27,13 @@ replay_pid*
 *.txt
 
 # macOS
-.DS_Store
+*.DS_Store
+
+#NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbbuild/
+build/
+nbproject/
